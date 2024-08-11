@@ -13,14 +13,14 @@
 
 .item {
   margin-right: 1em;
-}
 
-.item a {
-  color: #fff;
-  text-decoration: none;
-}
+  a {
+    color: #fff;
+    text-decoration: none;
+  }
 
-.item a:hover {
-  color: #ffbb33;
-  transition: 0.25s;
+  a:hover {
+    color: #ffbb33;
+    transition: 0.25s;
+  }
 }
