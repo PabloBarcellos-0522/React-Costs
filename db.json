@@ -10,6 +10,39 @@
       },
       "costs": 0,
       "sevices": []
+    },
+    {
+      "id": "797a",
+      "name": "My project",
+      "budget": "99000",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "costs": 0,
+      "sevices": []
+    },
+    {
+      "id": "cb3f",
+      "name": "My project2",
+      "budget": "99000",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "costs": 0,
+      "sevices": []
+    },
+    {
+      "id": "047d",
+      "name": "My project3",
+      "budget": "99000",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "costs": 0,
+      "sevices": []
     }
   ],
   "categories": [
